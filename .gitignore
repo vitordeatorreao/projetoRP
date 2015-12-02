@@ -7,3 +7,5 @@
 *.csv
 *.arff
 *.zip
+*.dvi
+*.out
